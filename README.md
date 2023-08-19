@@ -1,16 +1,17 @@
-### Hi there 👋
+## ¡Hola!
+ 
+### Bienvenid@ a mi github
 
-<!--
-**gastoncaute/gastoncaute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Busco proyectos nuevos
 
-Here are some ideas to get you started:
+Siempre aprendiendo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-cauteruccio/)
+[![Twitter](https://img.shields.io/badge/Twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Gastoncaute/)
+[![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:gastoncaute@gmail.com)
+
+<a href="https://github.com/gastoncaute/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=jolly&hide_border=true" /></a>
